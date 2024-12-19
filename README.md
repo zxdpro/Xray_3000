@@ -1,0 +1,2 @@
+# Xray_3000
+基于X光片训练了3000轮的微调模型_来源wangrongsheng
